@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/biielsn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biielsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biielsn&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biielsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biielsn&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Biiel-Js" height="30" width="40" src="https://user-images.githubusercontent.com/108358347/177269869-bf41c7e5-329d-4b83-b5b1-b688dab120e1.svg">
