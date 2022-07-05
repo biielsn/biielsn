@@ -1,9 +1,5 @@
 ## Hii! Me chamo Gabriel Silva
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando PHP7 & MySQL
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/biielsn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biielsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
