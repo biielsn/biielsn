@@ -18,8 +18,5 @@
   <img align="center" alt="Biiel-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/108358347/177270301-9619c687-7106-429d-9391-2462bd91fc01.svg">
  </div>
  
- <div>
-  ![Snake animation](https://github.com/biielsn/biielsn/blob/output/github-contribution-grid-snake.svg)
- </div>
 
   
