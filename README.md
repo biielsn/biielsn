@@ -1,4 +1,4 @@
-## Hii! Me chamo Gabriel Silva
+## Hello! My name is Gabriel Silva.
 
 <div align="center">
   <a href="https://github.com/biielsn">
